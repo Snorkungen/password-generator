@@ -1,6 +1,4 @@
 /*
-    I S**k
-    Knowing what your actions lead to is something. yes?
 
 // https://www.security.org/how-secure-is-my-password/
 
